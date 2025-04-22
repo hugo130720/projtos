@@ -36,7 +36,7 @@ programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <p align="center">
   <img alt="projeto devlinks" src=".github/preview.jpg" width="100%">
 </p>
-K](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+K](https://www.figma.com/design/IHjw7anqyB8ZfF1Oq7NuY5/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=10-620&p=f&t=0BRDsZPgRkqwO6RC-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
