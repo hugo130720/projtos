@@ -74,15 +74,15 @@ body * {
   z-index: 1; 
   transform: translateY(-50%);
 
-  animation: slide-back 0.2s;
+ animation: slide-back 0.2s;
 }
 
 .light #switch button {
- animation: slide-in 0.2s forwards;
+animation: slide-in 0.2s forwards;
 }
 
 #switch button:hover {
-outline: 8px solid var (--highlight-color)
+  outline: 8px solid var(--highlight-color);
 }
 
 #switch espan {
@@ -166,7 +166,7 @@ footer {
 }
 }
 
-@kayframes slide-in {
+@keyframes slide-in {
   from{
     left: 0;
   }
@@ -177,9 +177,9 @@ footer {
 
 @keyframes slide-back {
   from{
-    left: 50%
+   left: 50%;
   }
-  to {
+  to{
     left: 0;
   }
 }
